@@ -42,7 +42,7 @@ LLaMA 3.3 70B via Groq API (LLM - Large Language Model)
 ### Resultat test Colab
 ![Test](capture3.png)
 ## Etudiante
-- Nom : Yasmine Benachour
+- Nom : Yasmine Ben achour
 - Filiere : [2éme TA SIC ]
 - Annee : 2025-2026
 

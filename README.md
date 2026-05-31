@@ -41,6 +41,8 @@ LLaMA 3.3 70B via Groq API (LLM - Large Language Model)
 
 ### Resultat test Colab
 ![Test](capture3.png)
+## Demo video
+[Voir la demonstration][(https://drive.google.com/file/d/12Wd6jwt-YQ_VQP5m2ngRND-3sGmgj6oh/view?usp=sharing)]
 ## Etudiante
 - Nom : Yasmine Ben achour
 - Filiere : [2éme TA SIC ]
